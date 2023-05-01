@@ -2,7 +2,7 @@
 
 
 Prompt engineering is a hybrid between programming, instructing, and teaching that guides AI language models to generate your desired responses.
-The notebooks from this repository my learning.
+The materials from this repository are entorely from these resources below.
 
 
 Free Learning Resources
